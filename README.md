@@ -17,9 +17,3 @@ Built a neural network to classify breast cancer tumors—benign or malignant—
 - **`my_model.json`**: Trained model architecture (generated post-training).
 - **`my_model.weights.bin`**: Trained weights (generated post-training).
 
-## How to Run
-
-1. **Clone the Repo**  
-   ```bash
-   git clone https://github.com/ahmershah29/breast-cancer-classifier.git
-   cd breast-cancer-classifier
